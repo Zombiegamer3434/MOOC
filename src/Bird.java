@@ -11,6 +11,7 @@ public class Bird {
         this.latinName = latinName;
         noOfObservations = 0;
         birdList.add(this);
+        System.out.println("Im trying out editing code in github")
     }
     public void observed(){
         noOfObservations++;
